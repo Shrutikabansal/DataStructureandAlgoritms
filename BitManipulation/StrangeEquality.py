@@ -35,19 +35,38 @@ A+B = A^B + 2*(A&B)
 so A&B should be==0
 '''
 
-
 class Solution:
     # @param A : integer
     # @return an integer
     def solve(self, A):
         B=math.floor(math.log2(A))
         p=-1
-        for i in range (0,A):
-            if A&i ==0:
-                if i>p:
-                    p=i
-        x=p
+        v=[]
+        
+        while int(A)>0:
+            v.append(A%2)
+            A=int(A/2)
+            #print(A)
+
+        #print(v)
+        v.reverse()
+        #print(v)
+        n=len(v)
+        for i in range (0,n):
+            if(v[i]==1):
+                v[i]=0
+            else:
+                v[i]=1
+        #print(v)
+        temp=0
+        for i in range (n-1,-1,-1):
+            temp+=pow(2,n-i-1)*v[i]
+        
+        x=temp
+        #print(x)
         y=pow(2,B+1)
+        #print(y)
         z=x^y
+        #print(z)
         return z
 
