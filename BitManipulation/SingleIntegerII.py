@@ -29,4 +29,4 @@ class Solution:
             else:
                 m+=pow(2,j)*1
             temp=temp<<1
-    return m
+        return m
