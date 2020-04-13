@@ -19,7 +19,7 @@ def eggDrop(n, k):
         for j in range (2,k+1):
             dp[i][j]=100000000
             for k in range (1, j+1):
-                tmp=max(dp[i-1][x-1], dp[i][j-x])  #if you break at xth floor then you have x-1 floors and i-1 e#ggs if you doesn't break at xth floor then j-x floors and i eggs remaining
+                tmp=max(dp[i-1][x-1], dp[i][j-x])  # noqa: F821 if you break at xth floor then you have x-1 floors and i-1 e#ggs if you doesn't break at xth floor then j-x floors and i eggs remaining
                 if (tmp<dp[i][j]):
                     dp[i][j]=tmp
                 

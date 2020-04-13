@@ -20,35 +20,32 @@ Input:   str1 = "sunday", str2 = "saturday"
 Output:  3
 Last three and first characters are same.  We basically
 need to convert "un" to "atur".  This can be done using
-below three operations. 
+below three operations.
 Replace 'n' with 'r', insert t, insert a
 '''
 
 
 
 class Solution:
-	# @param A : string
-	# @param B : string
-	# @return an integer
-	def minDistance(self, A, B):
-	    n=len(A)
-	    m=len(B)
+    # @param A : string
+    # @param B : string
+    # @return an integer
+    def minDistance(self, A, B):
+        n=len(A)
+        m=len(B)
         dp = [[0]*(m+1) for i in range(n+1)]
-    # m=colums n=rows
-	    
-	   
-	    for i in range (0,m+1):
-	        dp[0][i]=i
+        # m=colums n=rows
+
+        for i in range (0,m+1):
+            dp[0][i]=i
         for i in range (0,n+1):
             dp[i][0]=i
-        
-        
-        
+
         for i in range (1, n+1):
             for j in range (1,m+1):
                 if(A[i-1]==B[j-1]):
                     dp[i][j]=dp[i-1][j-1]
                 else:
                     dp[i][j]=1+min(dp[i-1][j],dp[i][j-1], dp[i-1][j-1])
-        
+
         return dp[n][m]

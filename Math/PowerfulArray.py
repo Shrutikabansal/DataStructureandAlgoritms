@@ -36,7 +36,7 @@ Explanation 1:
 Power of A = 24 and Power of B = 48.
 So, the answer is 0.
 '''
-
+import math
 
 
 class Solution:

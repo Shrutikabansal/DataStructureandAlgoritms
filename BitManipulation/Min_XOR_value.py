@@ -31,6 +31,8 @@ Output 1:
 Output 2:
  3
 '''
+import sys
+
 
 class Solution:
 	# @param A : list of integers

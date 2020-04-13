@@ -1,5 +1,5 @@
 '''
-You are climbing a stair case and it takes A steps to reach to the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top? 
+You are climbing a stair case and it takes A steps to reach to the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
  Input Format:
 The first and the only argument contains an integer A, the number of steps.
 Output Format:
@@ -22,9 +22,9 @@ Explanation 2:
 
 
 class Solution:
-	# @param A : integer
-	# @return an integer
-	def climbStairs(self, A):
+    # @param A : integer
+    # @return an integer
+    def climbStairs(self, A):
         ans=[]
         ans.insert(0,1)
         ans.insert(1,2)
