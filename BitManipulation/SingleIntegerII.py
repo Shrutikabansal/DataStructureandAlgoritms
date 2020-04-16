@@ -21,14 +21,14 @@ class Solution:
         for j in range(0, 32):
             c0 = 0
             c1 = 0
-            for i in range(0, n):
-                if A[i] & temp:
-                    c1 += 1
-                else:
-                    c0 += 1
-            if c0 % 3:
-                m += pow(2, j) * 0
+        for i in range(0, n):
+            if A[i] & temp:
+                c1 += 1
             else:
-                m += pow(2, j) * 1
-            temp = temp << 1
-	return m
+                c0 += 1
+        if c0 % 3:
+            m += pow(2, j) * 0
+        else:
+            m += pow(2, j) * 1
+        temp = temp << 1
+        return m
