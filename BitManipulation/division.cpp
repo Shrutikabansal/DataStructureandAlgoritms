@@ -1,4 +1,5 @@
 '''
+
 Divide two integers without using multiplication, division and mod operator. Return the floor of the result of the division. Example:
 5 / 2 = 2
 '''
