@@ -6,12 +6,14 @@ public:
         set<int>s;
         for(i=0;i<n;i++){
             if(s.count(nums[i]) > 0){
+                
                 return true;
-            }else{
-                s.insert(nums[i]);
             }
+                s.insert(nums[i]);
+            
         }
 
+ 
         return false;
 
     }
