@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -40,5 +41,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
