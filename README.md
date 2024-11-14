@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0070-climbing-stairs](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
