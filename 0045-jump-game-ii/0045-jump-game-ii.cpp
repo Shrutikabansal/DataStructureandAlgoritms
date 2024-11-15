@@ -3,26 +3,25 @@ public:
     int jump(vector<int>& nums) {
 
         int n = nums.size();
-        if(n==1){
-            return 0;
-        }
-        vector<int>jump(n,INT_MAX);
-        jump[0] = 0;
 
-        for(int i = 1;i<n;i++){
-            for(int j =0;j<i;j++){
-                if(i<=j+nums[j] && jump[j] != INT_MAX){
-                    // cout<< "inside"<< " "<<i << " "<< jump[i];
-                    jump[i] = min(jump[i], jump[j]+1);
-                }
+        int start = 0, end = 0;
+        int jumping =0;
+
+        for(end = 0;end <n-1;){
+            int ending = 0;
+            for(int i = start;i<=end;i++){
+                ending = max(ending, i+nums[i]);
             }
+            jumping =jumping+1;
+            start = end+1;
+            end = ending;
+
+
         }
 
-        // for(int i =0;i<n;i++){
-        //     cout<< jump[i] << " ";
-        // }
+        return jumping;
 
-        return jump[n-1];
+
         
     }
 };
