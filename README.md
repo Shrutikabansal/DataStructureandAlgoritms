@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -29,6 +30,7 @@
 | [0045-jump-game-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0152-maximum-product-subarray) |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
