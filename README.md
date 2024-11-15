@@ -32,6 +32,7 @@
 | [0062-unique-paths](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0198-house-robber) |
@@ -75,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
