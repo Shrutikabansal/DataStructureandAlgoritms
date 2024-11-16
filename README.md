@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -81,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
@@ -94,8 +96,13 @@
 | [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
