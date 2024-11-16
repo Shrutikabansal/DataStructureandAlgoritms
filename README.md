@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,5 +86,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
