@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
@@ -68,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -86,6 +88,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 ## Simulation
