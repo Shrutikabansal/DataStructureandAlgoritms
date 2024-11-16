@@ -41,8 +41,11 @@ public:
 
          for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (board[i][j] == word[0]) {  // Start searching from this cell
+                if (board[i][j] == word[0]) { 
                     if (backtrack(board, word, 0, i, j, path)) {
+                        for (auto dir : path) {
+                            cout<< dir.first<< " "<< dir.second<< endl;
+                        }
                         return true;
                     }
                 }
