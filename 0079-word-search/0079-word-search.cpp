@@ -43,9 +43,9 @@ public:
             for (int j = 0; j < n; j++) {
                 if (board[i][j] == word[0]) { 
                     if (backtrack(board, word, 0, i, j, path)) {
-                        for (auto dir : path) {
-                            cout<< dir.first<< " "<< dir.second<< endl;
-                        }
+                        // for (auto dir : path) {
+                        //     cout<< dir.first<< " "<< dir.second<< endl;
+                        // }
                         return true;
                     }
                 }
