@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
@@ -159,6 +161,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
