@@ -93,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
@@ -169,4 +170,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
