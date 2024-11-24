@@ -39,6 +39,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0062-unique-paths) |
@@ -66,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
@@ -95,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
