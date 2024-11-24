@@ -142,6 +142,7 @@
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,4 +225,13 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
