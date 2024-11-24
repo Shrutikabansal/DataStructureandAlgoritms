@@ -37,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
@@ -189,4 +191,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
