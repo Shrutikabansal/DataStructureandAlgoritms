@@ -12,7 +12,6 @@ public:
             maxFreq = max(maxFreq, mp[s[j]]);
             if(j-i+1-maxFreq > k){
                 mp[s[i]]--;
-
                 ++i;
             }else{
             ans = max(ans, j-i+1);
