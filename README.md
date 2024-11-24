@@ -134,10 +134,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -192,4 +194,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
