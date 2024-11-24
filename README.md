@@ -52,6 +52,7 @@
 | [0213-house-robber-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0377-combination-sum-iv) |
+| [0647-palindromic-substrings](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
