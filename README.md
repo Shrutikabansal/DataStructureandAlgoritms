@@ -34,6 +34,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
@@ -184,6 +185,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
@@ -195,6 +197,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -249,4 +252,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
