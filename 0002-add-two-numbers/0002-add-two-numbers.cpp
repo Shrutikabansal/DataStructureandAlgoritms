@@ -37,6 +37,7 @@ public:
         }
 
         // ListNode *res = ans->next;
+        // delete temp;
         return dummy->next;
 
 
