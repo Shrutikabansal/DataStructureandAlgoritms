@@ -27,6 +27,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0377-combination-sum-iv) |
+| [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
+| [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -162,12 +165,14 @@
 | [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 ## Divide and Conquer
 |  |
 | ------- |
