@@ -145,6 +145,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -158,6 +159,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -266,4 +268,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0146-lru-cache) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
