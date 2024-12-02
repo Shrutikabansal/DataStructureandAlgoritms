@@ -28,18 +28,18 @@ public:
            (graph[prerequisites[i][1]]).push_back(prerequisites[i][0]);
         }
 
-        for(int i = 0; i < graph.size(); i++){
-            cout << i << "=> ";
-            for(int j = 0; j< graph[i].size(); j++){
-                cout<< graph[i][j] << " ";
-            }
-            cout<< endl;
-        }
+        // for(int i = 0; i < graph.size(); i++){
+        //     cout << i << "=> ";
+        //     for(int j = 0; j< graph[i].size(); j++){
+        //         cout<< graph[i][j] << " ";
+        //     }
+        //     cout<< endl;
+        // }
 
         vector<string> color(numCourses, "WHITE");
 
         for(int i = 0; i < numCourses; i++){
-            cout<< color[i] << " ";
+            // cout<< color[i] << " ";
             if(color[i] == "WHITE"){
                 if (dfsUtil(i,  color, graph)){
                     return false;
