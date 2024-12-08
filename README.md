@@ -27,6 +27,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0377-combination-sum-iv) |
+| [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 | [0213-house-robber-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0377-combination-sum-iv) |
+| [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
 ## Sorting
@@ -130,6 +132,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 ## Simulation
 |  |
@@ -165,6 +168,7 @@
 | [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
