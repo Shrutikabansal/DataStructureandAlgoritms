@@ -42,6 +42,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
@@ -126,6 +127,7 @@
 | [0020-valid-parentheses](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0091-decode-ways) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
@@ -318,4 +321,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0803-cheapest-flights-within-k-stops) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
