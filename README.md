@@ -31,6 +31,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
+| [1752-arithmetic-subarrays](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1752-arithmetic-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
+| [1752-arithmetic-subarrays](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1752-arithmetic-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
+| [1752-arithmetic-subarrays](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1752-arithmetic-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
