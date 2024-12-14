@@ -169,6 +169,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
@@ -185,6 +186,7 @@
 | [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
@@ -303,12 +305,14 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
