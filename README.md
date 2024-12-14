@@ -30,6 +30,7 @@
 | [0377-combination-sum-iv](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 | [1752-arithmetic-subarrays](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1752-arithmetic-subarrays) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
 | [1752-arithmetic-subarrays](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1752-arithmetic-subarrays) |
 ## Dynamic Programming
 |  |
@@ -77,6 +79,7 @@
 | [0242-valid-anagram](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0347-top-k-frequent-elements) |
+| [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
 | [1752-arithmetic-subarrays](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1752-arithmetic-subarrays) |
 ## Prefix Sum
 |  |
@@ -127,6 +130,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -167,6 +171,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0572-subtree-of-another-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -182,6 +187,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -190,6 +196,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/1073-number-of-enclaves) |
 ## Divide and Conquer
 |  |
