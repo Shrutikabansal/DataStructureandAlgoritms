@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shrutikabansal/DataStructureandAlgoritms/tree/master/0079-word-search) |
